@@ -80,7 +80,7 @@ a{/* configura todos os links*/
   text-shadow: 2px 2px 2px black ;
 }
 .curso{/*configura a div dos cursos*/
-  height: 400px;
+  height: 350px;
   width: 350px;
   background-color: #201B2D;
   border-radius: 10px;
